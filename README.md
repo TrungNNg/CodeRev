@@ -2,6 +2,8 @@
 
 **CodeRev** help user review coding interview quesitons using Spaced Repetition algorithm.
 
+![CodeRev Image](https://github.com/TrungNNg/TrungNNg.github.io/blob/master/images/coderev-app.jpeg)
+
 Practicing coding interview questions poses a common challenge – forgetting the approach to previously solved questions, even if they were thoroughly understood and solved. In an actual interview, even when facing the same coding question introduces additional challenges, including anxiety, nervousness, time pressure, varying environments, and continuous communication with the interviewer, etc. These factors can contribute to suboptimal outcomes. Regularly reviewing previously solved questions becomes crucial. It is a quick process when done frequently while the question is still fresh in your memory. CodeRev is an app designed to facilitate this review process, employing spaced repetition to determine when a coding question needs revisiting.
 
 ![Download QR Code](https://github.com/TrungNNg/TrungNNg.github.io/blob/master/images/qr-code.jpg)
@@ -15,8 +17,13 @@ The following **required** functionality is completed:
 - [x] Integrated a Spaced Repetition algorithm, akin to industry-standard memory assistance applications, to enhance learning and retention experiences
 
 ## Video Walkthrough
-<div style="position: relative; padding-bottom: 216.2324649298597%; height: 0;"><iframe src="https://www.loom.com/embed/0ef103aa4104480580448b53a9ca7eab?sid=ac425348-2af9-419e-a63c-761179759d16" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+<div>
+    <a href="https://www.loom.com/share/0ef103aa4104480580448b53a9ca7eab">
+    </a>
+    <a href="https://www.loom.com/share/0ef103aa4104480580448b53a9ca7eab">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0ef103aa4104480580448b53a9ca7eab-with-play.gif">
+    </a>
+  </div>
 
 ## License
 
